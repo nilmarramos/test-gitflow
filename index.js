@@ -1,1 +1,1 @@
-const nada = []
+const nada = ['nada']
